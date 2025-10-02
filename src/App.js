@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Pályaorientáció</h1>
-
+      <p>Tesztelek</p>
     </div>
   );
 }
